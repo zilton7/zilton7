@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Zil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zilton7)](https://github.com/zilton7/github-readme-stats)
 
 <!--
 **zilton7/zilton7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
