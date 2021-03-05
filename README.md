@@ -1,6 +1,8 @@
+<p align="center">
 ### <img src="zil-norvilis-banner-gif.gif" width="50%">
-[![Zil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zilton7&show_icons=true&theme=dark)](https://github.com/zilton7/github-readme-stats)
 
+[![Zil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zilton7&show_icons=true&theme=dark)](https://github.com/zilton7/github-readme-stats)
+  </p>
 <!--
 **zilton7/zilton7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
