@@ -1,3 +1,4 @@
+### <img src="zil-norvilis-banner-gif.gif" width="100%">
 [![Zil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zilton7&show_icons=true&theme=dark)](https://github.com/zilton7/github-readme-stats)
 
 <!--
