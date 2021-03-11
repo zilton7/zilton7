@@ -15,3 +15,10 @@
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="max-width:100%;" width="40" height="40"> </a>
 </p>
+
+  <p align="center">
+   <a href="https://github.com/Shaher-11">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zilton7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilton7&show_icons=true&theme=dark&layout=compact" alt="shaher" />
+  </a>
+</p>
