@@ -22,3 +22,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilton7&show_icons=true&theme=dark&layout=compact"&hide=python alt="zilton" />
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garciajordy&label=Profile%20views&color=0e75b6&style=flat" alt="marijanbrvar" /> </p>
