@@ -19,8 +19,8 @@
   <p align="center">
    <a href="https://github.com/zilton7">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zilton7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilton7&show_icons=true&theme=dark&layout=compact"&hide=python alt="zilton" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilton7&show_icons=true&theme=dark&layout=compact"&hide=python alt="zilton7" />
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zilton7&label=Profile%20views&color=0e75b6&style=flat" alt="marijanbrvar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zilton7&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="zilton7" /> </p>
