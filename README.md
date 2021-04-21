@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
+<h3 align="center">A full-stack developer from Lithuania</h3>
+
 <p align="center">
 <img src="zil-norvilis-banner-gif.gif" width="50%">
 </p>
-
-<h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
-<h3 align="center">A passionate full-stack developer from Lithuania</h3>
 
  ### 🛠 Tech Stack  
 <p align="left">
