@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zil.norvilis@gmail.com**
 
-- ⚡ Fun fact **I am Mixed-handed**
+- ⚡ Fun fact **I am mixed-handed**
 
 <p align="center">
 <img src="zil-norvilis-banner-gif.gif" width="50%">
