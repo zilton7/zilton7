@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
 <h3 align="center">A full-stack developer from Lithuania</h3>
 
+- 🌱 I’m currently learning **Ruby on Rails**
+
+- 📫 How to reach me **zil.norvilis@gmail.com**
+
+- ⚡ Fun fact **I am ambidextrous**
+
 <p align="center">
 <img src="zil-norvilis-banner-gif.gif" width="50%">
 </p>
