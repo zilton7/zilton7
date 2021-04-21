@@ -2,6 +2,9 @@
 <img src="zil-norvilis-banner-gif.gif" width="50%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
+<h3 align="center">A passionate full-stack developer from Lithuania</h3>
+
  ### 🛠 Tech Stack  
 <p align="left">
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
