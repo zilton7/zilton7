@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
 <h3 align="center">A full-stack developer from Lithuania</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently studying **Ruby on Rails**
 
 - 📫 How to reach me **zil.norvilis@gmail.com**
 
