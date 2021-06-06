@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **React**
 
-- 📫 How to reach me: **zil.norvilis@gmail.com**
+- 📫 How to reach me: **zil@norvilis.com**
 
 - ⚡ Fun fact: **I am mixed-handed**
 
