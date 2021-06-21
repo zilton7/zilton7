@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
-<h3 align="center">A full-stack developer from Lithuania</h3>
+<h3 align="center">A full-stack web developer from Lithuania</h3>
 
 - 🌱 I’m currently studying: **React**
 
