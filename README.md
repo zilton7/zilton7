@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **I am mixed-handed**
 
 <p align="center">
-<img src="standard.gif" width="50%">
+<img src="zil-norvilis-banner-gif.gif" width="50%">
 </p>
 
  ### 🛠 Tech Stack  
