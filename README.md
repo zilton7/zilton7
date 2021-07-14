@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **React/Redux**
  
-- 👨‍💻 All of my projects are available at [norvilis.com](http://norvilis.com)
+- 👨‍💻 All of my projects are available at **[norvilis.com](http://norvilis.com)**
 
 - 📫 How to reach me: **zil@norvilis.com**
 
