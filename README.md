@@ -2,6 +2,8 @@
 <h3 align="center">A full-stack web developer from Lithuania</h3>
 
 - 🌱 I’m currently studying: **React/Redux**
+ 
+- 👨‍💻 All of my projects are available at [norvilis.com](norvilis.com)
 
 - 📫 How to reach me: **zil@norvilis.com**
 
