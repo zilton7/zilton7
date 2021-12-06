@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
 <h3 align="center">A full-stack web developer from Lithuania</h3>
-
-- 🌱 I’m currently studying: **React/Redux**
  
 - 👨‍💻 All of my projects are available at **[www.norvilis.com](http://norvilis.com)**
 
