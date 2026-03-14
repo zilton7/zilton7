@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zil Norvilis</h1>
 <h3 align="center">A full-stack web developer from Lithuania</h3>
-- Personal blog: **[https://norvilis.com](https://norvilis.com)**
+
+- 📝 Personal blog: **[https://norvilis.com](https://norvilis.com)**
+  
 - 👨‍💻 All of my projects are available at **[https://zilton7.github.io/portfolio/](https://zilton7.github.io/portfolio/)**
 
 - 📫 How to reach me: **zilasino27@gmail.com**
